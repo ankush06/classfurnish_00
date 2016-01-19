@@ -1,0 +1,9 @@
+#install these dependency
+pip install Django-oscar
+pip install pymysql
+pip install wagtail
+pip install Django-debug-toolbar
+pip install pysolr
+
+#add the apps path to virtualenv
+add2virtualenv apps
